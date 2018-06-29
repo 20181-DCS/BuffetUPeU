@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("1.1.1.2.3:1", "", "resources", "EARoot/EA1/EA1/EA1/EA2/EA3/EA138.htm", "175.png", "52", "0", "", "Logical diagram0","{A6332C7A-8775-4c3e-B0DE-B943B4A77B4E}");
+tocTab[tocTab.length] = new Array("1.1.1.2.3:2", "", "settings.py", "EARoot/EA1/EA1/EA1/EA2/EA3/EA140.htm", "5.png", "321", "0", "", "Class0","{1E1C2A0E-2714-4c00-B105-489D85F6C728}");
+tocTab[tocTab.length] = new Array("1.1.1.2.3:3", "", "urls.py", "EARoot/EA1/EA1/EA1/EA2/EA3/EA141.htm", "5.png", "322", "0", "", "Class0","{66A80BDA-B113-4d76-BA0A-BE435E1BDADA}");
+tocTab[tocTab.length] = new Array("1.1.1.2.3:4", "", "wsgi.py", "EARoot/EA1/EA1/EA1/EA2/EA3/EA142.htm", "5.png", "323", "0", "", "Class0","{3A838B3E-84DD-469f-83F1-D6F5EE63AC60}");

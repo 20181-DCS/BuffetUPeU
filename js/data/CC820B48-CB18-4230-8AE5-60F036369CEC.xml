@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("1.1.1.2.1", "1", "api", "EARoot/EA1/EA1/EA1/EA2/EA83.htm", "4.png", "", "", "{BBA4ECEB-B8B2-4dad-9C3B-F6C9C1AFE2F1}", "Package");
+tocTab[tocTab.length] = new Array("1.1.1.2.2", "1", "environment", "EARoot/EA1/EA1/EA1/EA2/EA84.htm", "4.png", "", "", "{C7F847B8-940A-4a6f-9DCD-A40118C92726}", "Package");
+tocTab[tocTab.length] = new Array("1.1.1.2.3", "1", "resources", "EARoot/EA1/EA1/EA1/EA2/EA85.htm", "4.png", "", "", "{0828AF4A-CBE1-4ca4-9CBC-B08ABCDA57FA}", "Package");
+tocTab[tocTab.length] = new Array("1.1.1.2.4", "1", "manage.py", "EARoot/EA1/EA1/EA1/EA2/EA86.htm", "4.png", "", "", "{4461FA1A-8210-47d8-9F27-72199315F363}", "Package");

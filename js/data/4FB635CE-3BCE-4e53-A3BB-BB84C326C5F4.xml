@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("1.1.1.1", "1", "buffet_reservation_android_client", "EARoot/EA1/EA1/EA1/EA4.htm", "4.png", "", "", "{DA5DA314-D1AF-4ea1-93F7-7E3736C00541}", "Package");
+tocTab[tocTab.length] = new Array("1.1.1.2", "1", "buffet_reservation_resources_server", "EARoot/EA1/EA1/EA1/EA5.htm", "4.png", "", "", "{CC820B48-CB18-4230-8AE5-60F036369CEC}", "Package");
+tocTab[tocTab.length] = new Array("1.1.1.3", "1", "Overview", "EARoot/EA1/EA1/EA1/EA6.htm", "4.png", "", "", "{EF3B0DCE-7C51-4de1-B8AE-2384EA864B2B}", "Package");

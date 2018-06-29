@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("1.1.1.1.1.4.2.2.2:1", "", "activity_auth.xml", "EARoot/EA1/EA1/EA1/EA1/EA1/EA4/EA2/EA2/EA2/EA59.htm", "188.png", "86", "0", "", "Custom diagram0","{C303D26D-A473-45d8-9173-3D3D1DCC2EBD}");
+tocTab[tocTab.length] = new Array("1.1.1.1.1.4.2.2.2:2", "", "activity_index.xml", "EARoot/EA1/EA1/EA1/EA1/EA1/EA4/EA2/EA2/EA2/EA61.htm", "188.png", "82", "0", "", "Custom diagram0","{070CC652-8004-4928-8E4D-0075C0C72CA6}");
+tocTab[tocTab.length] = new Array("1.1.1.1.1.4.2.2.2:3", "", "activity_main.xml", "EARoot/EA1/EA1/EA1/EA1/EA1/EA4/EA2/EA2/EA2/EA63.htm", "188.png", "87", "0", "", "Custom diagram0","{CCE93BBB-7DC9-409e-9252-7742ABB34B97}");
+tocTab[tocTab.length] = new Array("1.1.1.1.1.4.2.2.2:4", "", "activity_registry.xml", "EARoot/EA1/EA1/EA1/EA1/EA1/EA4/EA2/EA2/EA2/EA65.htm", "188.png", "88", "0", "", "Custom diagram0","{8CE833E4-6925-48f8-B1F5-052C1B1A7E15}");
+tocTab[tocTab.length] = new Array("1.1.1.1.1.4.2.2.2:5", "", "list_item.xml", "EARoot/EA1/EA1/EA1/EA1/EA1/EA4/EA2/EA2/EA2/EA67.htm", "188.png", "89", "0", "", "Custom diagram0","{61275CD1-34F1-4773-8888-443EF30F3AF4}");

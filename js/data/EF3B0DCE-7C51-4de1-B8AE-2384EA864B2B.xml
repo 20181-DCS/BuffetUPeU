@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("1.1.1.3:1", "", "Caso de uso", "EARoot/EA1/EA1/EA1/EA3/EA145.htm", "180.png", "96", "0", "", "Use Case diagram0","{9456D44D-84DB-4ba8-B3FE-080AB7C546D0}");
+tocTab[tocTab.length] = new Array("1.1.1.3:2", "", "Diagrama de paquetes", "EARoot/EA1/EA1/EA1/EA3/EA147.htm", "176.png", "93", "0", "", "Package diagram0","{9B974C14-E35A-4c66-8EF4-B3DE4B6E1E5F}");
+tocTab[tocTab.length] = new Array("1.1.1.3.1", "1", "android_client", "EARoot/EA1/EA1/EA1/EA3/EA152.htm", "4.png", "", "", "{417DE929-3FEC-41e9-8C2C-5A6EA255B0F6}", "Package");
+tocTab[tocTab.length] = new Array("1.1.1.3.2", "1", "resources_server", "EARoot/EA1/EA1/EA1/EA3/EA153.htm", "4.png", "", "", "{CF7AC86E-6E51-4788-83EF-791F03F8A3ED}", "Package");

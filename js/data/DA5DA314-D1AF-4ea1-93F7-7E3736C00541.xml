@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("1.1.1.1.1", "1", "app", "EARoot/EA1/EA1/EA1/EA1/EA7.htm", "4.png", "", "", "{5549A114-F001-4c4a-A7B6-69C9B7F63275}", "Package");
+tocTab[tocTab.length] = new Array("1.1.1.1.2", "", "build", "EARoot/EA1/EA1/EA1/EA1/EA8.htm", "4.png", "", "", "{DDC30C30-E727-44b6-AD17-46D89982B395}", "Package");
+tocTab[tocTab.length] = new Array("1.1.1.1.3", "", "gradle", "EARoot/EA1/EA1/EA1/EA1/EA9.htm", "4.png", "", "", "{0BD72E23-3FA0-41d8-A119-4BCB8F6438BB}", "Package");
